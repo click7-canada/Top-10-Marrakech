@@ -5,8 +5,10 @@ From exploring Marrakech’s rich history and unique culture to discovering the 
 
 ### Main Screenshots
 [<img src="Screenshots/image1.png" width="800" alt="Top_10_Marrakech_Screenshot">](Screenshots/image1.png)
-
-
+[<img src="Screenshots/image2.png" width="800" alt="Top_10_Marrakech_Screenshot">](Screenshots/image2.png)
+[<img src="Screenshots/image3.png" width="800" alt="Top_10_Marrakech_Screenshot">](Screenshots/image3.png)
+[<img src="Screenshots/image4.png" width="800" alt="Top_10_Marrakech_Screenshot">](Screenshots/image4.png)
+[<img src="Screenshots/image5.png" width="800" alt="Top_10_Marrakech_Screenshot">](Screenshots/image5.png)
 
 ## Live Site
 https://top10marrakech.com/
